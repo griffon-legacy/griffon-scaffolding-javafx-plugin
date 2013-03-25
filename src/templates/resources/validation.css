@@ -1,0 +1,23 @@
+.label {
+    -fx-text-fill: black;
+}
+
+.textField {
+    -fx-text-fill: black;
+}
+
+.passwordField {
+    -fx-text-fill: black;
+}
+
+.textAreaField {
+    -fx-text-fill: black;
+}
+
+.required {
+    -fx-font-weight: bold;
+}
+
+.error {
+    -fx-text-fill: red;
+}
